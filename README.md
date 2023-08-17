@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs)](https://skillicons.dev)
+
 
 ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=oasis-cloud)
