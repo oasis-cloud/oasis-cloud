@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs)](https://skillicons.dev)
 
 #### Stats
-![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=oasis-cloud)
+![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=oasis-cloud&theme=flag-india&show_icons=true)
