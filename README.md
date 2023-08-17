@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yoo, I'm Oasis 👋
 
 <!--
 **oasis-cloud/oasis-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs)](https://skillicons.dev)
+
+![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=oasis-cloud)
